@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm zineddine amariche</h1>
 <h3 align="center">A passionate FullStack developer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zinou-11y&label=Profile%20views&color=0e75b6&style=flat" alt="zinou-11y" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zineddine-amariche&label=Profile%20views&color=0e75b6&style=flat" alt="zineddine-amariche" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinou-11y" alt="zinou-11y" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zineddine-amariche" alt="zineddine-amariche" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lux_omega3" target="blank"><img src="https://img.shields.io/twitter/follow/lux_omega3?logo=twitter&style=for-the-badge" alt="lux_omega3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zinedineamarich" target="blank"><img src="https://img.shields.io/twitter/follow/zinedineamarich?logo=twitter&style=for-the-badge" alt="@zinedineamarich" /></a> </p>
 
 - 🔭 I’m currently working on **DzMushaf,CareerCraft...**
 
