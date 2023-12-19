@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lux_omega3" target="blank"><img src="https://img.shields.io/twitter/follow/lux_omega3?logo=twitter&style=for-the-badge" alt="lux_omega3" /></a> </p>
 
-- 🔭 I’m currently working on **DiaspoApp,HilaqApp,...**
+- 🔭 I’m currently working on **DzMushaf,CareerCraft...**
 
 - 🌱 I’m currently learning **NextJs , Animation-ReactNative**
 
